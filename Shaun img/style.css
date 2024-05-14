@@ -1,0 +1,98 @@
+head {
+    background-color: #FFFFF0;
+}
+
+
+
+body {
+    
+    background-image: url('https://unsplash.com/photos/a-black-and-white-photo-of-a-wall-_JBKdviweXI');
+}
+.h1 {
+    text-align: center;
+    font-size: 65px;
+}
+.firsth3 {
+    text-align: center;
+    font-size: 30px;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+hr {
+    border-color: #a6c6c2;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.container1 {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;  
+    margin: 0px 100px 0px 100px;
+}
+
+.container2 {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;  
+    margin: 0px 100px 0px 100px;
+}
+
+.containersummary {
+ 
+    margin-left: 100px;
+}
+
+.container3 {
+    display: flex;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;  
+    margin: 0px 100px 0px 100px;
+}
+.container-mainsummary {
+    border: solid 1px;
+    border-color: #528b84;
+    margin: 10px 50px 10px 50px;
+    padding: 10px 10px 10px 10px;
+}
+.container-listing01 {
+    margin: 0px 100px 0px 100px;
+    float: left;
+}
+
+.container-listing02 {
+    margin: 0px 100px 0px 50%;
+    clear: right;
+}
+
+.container-education {
+    margin: 0px 100px 0px 100px;
+}
+
+.container-experience {
+    margin: 0px 100px 0px 100px;
+}
+
+.container-skills {
+    margin: 0px 100px 50px 100px;
+    
+}
+
+.intro1 {
+    text-align: center;
+}
+.intro2 {
+    text-align: center;
+}
+
